@@ -1,0 +1,24 @@
+.galaxy-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    flex-wrap: wrap;
+    margin-top: 100px;
+
+  }
+  
+  .galaxy-container img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 0; /* Removendo arredondamento para colar melhor */
+    box-shadow: none; /* Opcional: sem sombra para não criar “espaço visual” */
+    margin: 0; /* Garante que não tenha margem */
+    transition: transform 0.3s ease;
+  }
+  
+  .galaxy-container img:hover {
+    transform: scale(1.05);
+  }
+  

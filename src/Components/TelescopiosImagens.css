@@ -1,0 +1,26 @@
+.galeria-telescopios {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    background-color: #000000;
+  }
+
+  .telescopio-img {
+    text-align: center;
+  }
+
+  .telescopio-img img {
+    width: 450px;
+    height: 480px;
+    object-fit: cover;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    background-color: #000000;
+  }
+
+  .telescopio-img p {
+    margin-top: 8px;
+    font-weight: bold;
+  }

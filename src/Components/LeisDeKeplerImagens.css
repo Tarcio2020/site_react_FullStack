@@ -1,0 +1,16 @@
+.imagens-kepler {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 60px;
+    flex-wrap: wrap;
+  }
+
+  .imagens-kepler img {
+    width: 600px;
+    height: 400px;
+    object-fit: contain;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+  }

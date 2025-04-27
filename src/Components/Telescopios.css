@@ -1,0 +1,20 @@
+.telescopios {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(218, 215, 215, 0.1);
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #ffffff;
+  }
+
+  .telescopio {
+    margin-bottom: 20px;
+  }
+
+  .telescopio h2 {
+    margin-bottom: 5px;
+    color: #ffffff;
+  }

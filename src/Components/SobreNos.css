@@ -1,0 +1,58 @@
+.sobre-nos {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #000000; /* Fundo escuro para contraste com o texto branco */
+    color: white; /* Texto branco em toda a página */
+    line-height: 1.6;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  header h1 {
+    color: white; /* Título em branco */
+  }
+  
+  .imagem-universo,
+  .imagem-espaco {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 8px; /* Deixa as imagens com bordas arredondadas */
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  section h2 {
+    color: #f39c12; /* Títulos das seções em um tom dourado/laranja para destaque */
+  }
+  
+  footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #bdc3c7; /* Cor de texto mais suave no rodapé */
+  }
+  
+  ul {
+    list-style-type: none; /* Remove marcadores das listas */
+    padding-left: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  a {
+    color: #f39c12; /* Links em dourado/laranja */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Efeito de sublinhado ao passar o mouse sobre os links */
+  }
+  
